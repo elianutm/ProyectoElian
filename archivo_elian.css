@@ -1,7 +1,7 @@
 .verticalcenter{
     position: relative;
-    top: 50%;
-    -webkit-transform: translateY(-50%);
-    -o-transform: translateY(-50%);
-    transform: translateY(-50%);
+    top: 60%;
+    -webkit-transform: translateY(-60%);
+    -o-transform: translateY(-60%);
+    transform: translateY(-60%);
 }
